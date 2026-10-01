@@ -1,5 +1,5 @@
 Here is the latest alpha version of the website.<br>
-https://moj-virid-eight.vercel.app/
+https://moj.wyk.edu.hk/
 <br>
 Note that this website is based on vercel, please do not ddos it, or i will use a heavy protection method.<br>
 Future updates:<br>
